@@ -1,0 +1,44 @@
+unit Unit1;
+
+interface
+
+type
+  TAbstractFactory = class
+
+  end;
+
+  TConcreteFactory2 = class(TAbstractFactory)
+
+  end;
+
+  ConcreteFactory1 = class(ConcreteFactory1)
+
+  end;
+
+  AbstractProductA = class
+  public
+    // function print: string;
+
+  end;
+
+  ProductA1 = class(AbstractProductA)
+
+  end;
+
+  ProductA2 = class(AbstractProductA)
+
+  end;
+
+  AbstractProductB = class
+
+  end;
+
+  ProductB1 = class(AbstractProductB)
+
+  end;
+
+  ProductB2 = class(AbstractProductB)
+
+implementation
+
+end.

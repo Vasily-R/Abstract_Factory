@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\студ.AST\Documents\RAD Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=C:\Users\студ.AST\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,=C:\Users\студ.AST\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.03.07 10:53:21.302,=C:\Users\студ.AST\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.03.07 10:55:00.054,C:\Users\студ.AST\Desktop\1\Unit2.dfm=C:\Users\студ.AST\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018.03.07 10:55:00.054,C:\Users\студ.AST\Desktop\1\Unit2.pas=C:\Users\студ.AST\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.03.07 10:55:00.883,C:\Users\студ.AST\Desktop\1\Project2.dproj=C:\Users\студ.AST\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018.03.07 10:55:19.551,=C:\Users\студ.AST\Desktop\1\Unit1.pas</Transaction>
+    <Transaction>2018.03.07 11:53:13.089,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\default.txaPackage</Transaction>
+    <Transaction>2018.03.07 11:53:39.002,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\default.txvpck</Transaction>
+    <Transaction>2018.03.07 12:00:29.269,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\Unit1\default.txvpck</Transaction>
+    <Transaction>2018.03.07 12:00:29.393,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\Project2\default.txvpck</Transaction>
+    <Transaction>2018.03.07 12:00:41.780,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\Unit2\default.txvpck</Transaction>
+    <Transaction>2018.03.07 12:05:21.648,=C:\Users\студ.AST\Desktop\1\ModelSupport_Project2\Unit1\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
